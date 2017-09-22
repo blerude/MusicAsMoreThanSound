@@ -1,4 +1,4 @@
-# MusicAsMoreThanSound
+# Music As More Than Sound: Interactive Audiovisual Analytics
 Computing and the Arts Final Project
 
 ## Scripts:
